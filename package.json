@@ -1,12 +1,11 @@
 {
-  "name": "victoryes",
-  "version": "0.0.1",
+  "name": "victory",
+  "version": "0.0.2",
   "description": "victory repo with fixed stacks",
   "repository": {
     "type": "git",
     "url": "https://github.com/cneltyn/victory.git"
   },
-  "private": true,
   "workspaces": [
     "packages/*"
   ],
