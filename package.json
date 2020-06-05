@@ -1,16 +1,10 @@
 {
-  "name": "victory-monorepo",
-  "version": "0.0.0",
-  "description": "Data viz for React",
-  "keywords": [
-    "data visualization",
-    "React",
-    "d3",
-    "charting"
-  ],
+  "name": "victoryes",
+  "version": "0.0.1",
+  "description": "victory repo with fixed stacks",
   "repository": {
     "type": "git",
-    "url": "https://github.com/formidablelabs/victory.git"
+    "url": "https://github.com/cneltyn/victory.git"
   },
   "private": true,
   "workspaces": [

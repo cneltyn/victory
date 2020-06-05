@@ -67,7 +67,6 @@ function pixelsToValue(props, axis, calculatedProps) {
 }
 
 function getX0(props, calculatedProps, index) {
-  console.log('DEV : ',{ calculatedProps });
   const center = (calculatedProps.datasets[0].length - 1) / 2;
   const totalWidth = pixelsToValue(props, "x", calculatedProps);
   return (index - center) * totalWidth;
